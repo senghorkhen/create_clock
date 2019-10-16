@@ -1,0 +1,14 @@
+/* body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: url(../images/morning.png);
+    background-size: cover;
+} */
+h1 {
+    text-align: center;
+    margin-top: 200px;
+}
+h2 {
+    text-align: center;
+}
